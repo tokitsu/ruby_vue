@@ -14,3 +14,5 @@ config.resolve.alias = {
 
 environment.loaders.prepend('vue', vue)
 module.exports = environment
+
+
